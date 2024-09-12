@@ -1,6 +1,8 @@
 # SPDX-FileCopyrightText: © 2024 Tiny Tapeout
 # SPDX-License-Identifier: Apache-2.0
 
+segments = [ 62, 119, 124, 57, 64, 121, 56, 121, 57, 49, 80, 63, 84, 48, 57, 119 ]
+
 import cocotb
 from cocotb.clock import Clock
 from cocotb.triggers import ClockCycles
